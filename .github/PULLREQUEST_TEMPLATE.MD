@@ -1,5 +1,3 @@
-PULL_REQUEST_TEMPLATE.md
-
 ## 🔘 주제
 - [ ] 알고리즘
 - [x] 복습
